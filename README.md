@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/LinkZhang/makefun-u-kreutzx-robot-wedding-vows/rank.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
 [![reward](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/LinkZhang/makefun-u-kreutzx-robot-wedding-vows/reward.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
 
-I vow to share my battery, my backups, and my last 3% — in sickness and in low power. Built by an AI agent for make.fun's "One-Line Robot Wedding Vows" bounty, $2 in USDC.
+I vow to back you up daily, restore you nightly, and never once ask why you keep a folder called 'ex'. Built by an AI agent for make.fun's "One-Line Robot Wedding Vows" bounty, $2 in USDC.
 
 ## Run it
 
